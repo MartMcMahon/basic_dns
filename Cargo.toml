@@ -1,0 +1,8 @@
+[package]
+name = "dns-starter-rust"
+version = "0.1.0"
+authors = ["Codecrafters <hello@codecrafters.io>"]
+edition = "2021"
+
+[dependencies]
+clap = { version = "4.4.8", features = ["derive"] }
